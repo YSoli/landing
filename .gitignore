@@ -1,0 +1,6 @@
+
+# Il est possible d'ignorer les répertoires et les fichiers d'un répertoire.
+node_modules/**/*
+gulpfile.js
+package.json
+tuto.txt
